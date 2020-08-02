@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-02T07:54:48.003Z</updated>
+  <updated>2020-08-02T09:28:27.205Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello</title>
+    <title>欢迎您访问我的博客</title>
     <link href="http://yoursite.com/2020/08/02/hello/"/>
     <id>http://yoursite.com/2020/08/02/hello/</id>
     <published>2020-08-02T07:54:27.000Z</published>
-    <updated>2020-08-02T07:54:48.003Z</updated>
+    <updated>2020-08-02T09:28:27.205Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="欢迎"><a href="#欢迎" class="headerlink" title="欢迎"></a>欢迎</h2><p>欢迎您访问我的个人博客，来者是客，秀的坐下。这是我第一次创建博客，可能拿来做做记录,也可能不会更新。由于本人水平有限 ，写的内容出现错误在所难免，请各位多多赐教。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="欢迎"><a href="#欢迎" class="headerlink" title="欢迎"></a>欢迎</h2><p>谢谢您访问我的个人博客，来者是客，秀的坐下。这是我第一次创建博客，可能拿来做做记录,也可能不会更新。由于本人水平有限 ，写的内容出现错误在所难免，请各位多多赐教。</p><h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p>我在上网的时候看到可以免费搭建博客的教程，就试着创建了一个博客。本人是个小白，就随便玩玩。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;欢迎&quot;&gt;&lt;a href=&quot;#欢迎&quot; class=&quot;headerlink&quot; title=&quot;欢迎&quot;&gt;&lt;/a&gt;欢迎&lt;/h2&gt;&lt;p&gt;欢迎您访问我的个人博客，来者是客，秀的坐下。这是我第一次创建博客，可能拿来做做记录,也可能不会更新。由于本人水平有限 ，写的内容出现错误在所
+        &lt;h2 id=&quot;欢迎&quot;&gt;&lt;a href=&quot;#欢迎&quot; class=&quot;headerlink&quot; title=&quot;欢迎&quot;&gt;&lt;/a&gt;欢迎&lt;/h2&gt;&lt;p&gt;谢谢您访问我的个人博客，来者是客，秀的坐下。这是我第一次创建博客，可能拿来做做记录,也可能不会更新。由于本人水平有限 ，写的内容出现错误在所
       
     
     </summary>
